@@ -17,7 +17,6 @@ I love reading and watching philosophical and scientific documentaries. I enjoy 
 - JavaScript
 - React
 - Vue
-- SQL
 
 ## 📫 How to reach me
 
