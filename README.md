@@ -1,25 +1,25 @@
-### Hello world <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Gervais, and I'm a mid frontend developer. I'm on a journey to become a fullstack senior developer by learning new things, working on challenging projects, and perfecting my coding skills. I'm interested in AI, Web 3, and IoT. 
+## 🚀 About Me:
 
-I love reading and watching philosophical and scientific documentaries. I enjoy anything that will make me more productive and a better person.
+With over 5 years of experience in software development, I have honed my skills as a frontend developer, working for 3 years at an agency and spending the last 2 years as an independent contractor. Now, I am diving deep into the exciting field of Artificial Intelligence and Machine Learning to pivot my career towards AI/ML engineering.
 
-🌱 Currently, I'm interested in AI, Web 3, and IoT. I love reading and watching philosophical and scientific documentaries.
+## 💼 Professional Journey:
 
-👨‍💻 I'm always looking for opportunities to collaborate on interesting projects, so feel free to reach out to me.
+**Frontend Developer (3 Years):** Worked at a dynamic agency where I developed and maintained numerous high-impact websites and web applications.
+**Independent Contractor (2 Years):** Provided bespoke web development services to a diverse clientele, delivering optimized and scalable solutions.
 
-⚡ Fun fact: I believe that anything that makes me more productive and a better person is worth pursuing.
+## 🎯 Current Focus:
 
-## 🔧 Skills
+I am currently expanding my skill set by undertaking comprehensive online courses in AI and Machine Learning. This transition is fueled by my passion for innovation and the transformative potential of AI technologies.
 
-- HTML
-- CSS
-- JavaScript
-- React
-- Vue
+## 🔧 Skills & Technologies:
+
+**Frontend Development:** HTML, CSS, JavaScript, TypeScript, React, Next.js  
+**Web Development Tools:** Git, Webpack, Babel  
+**Learning & Exploring:** Python, TensorFlow, PyTorch, Data Analysis, Machine Learning Algorithms
 
 ## 📫 How to reach me
 
 - Email: [gervaisamoah@yahoo.com](mailto:gervaisamoah@yahoo.com)
 - LinkedIn: [gervais-amoah](https://www.linkedin.com/in/gervais-amoah/)
-- GitHub: [gervais-amoah](https://github.com/gervais-amoah)
