@@ -9,9 +9,11 @@ With a software engineering bachelor and over 4 years of enterprise experience i
 **Frontend Developer (3 Years):** Worked at a dynamic agency where I developed and maintained numerous high-impact websites and web applications.
 **Independent Contractor (1 Year):** Provided bespoke web development services to a diverse clientele, delivering optimized and scalable solutions.
 
-## 🎯 Current Focus:
+## 🎯 Main Focus:
 
-I am currently expanding my skill set by undertaking comprehensive online courses in AI and Machine Learning. This transition is fueled by my passion for innovation and the transformative potential of AI technologies.
+I'm currently expanding my skill set through comprehensive online courses in AI and Machine Learning, driven by my passion for innovation and the transformative power of AI technologies. At the same time, I'm continuously improving my frontend development skills to stay at the forefront of web development.
+
+Additionally, I share my insights through blog posts on [Medium](https://medium.com/@wgevpein) and [Dev.to.](https://dev.to/gervaisamoah)
 
 ## 🔧 Skills & Technologies:
 
