@@ -13,7 +13,7 @@ With a software engineering bachelor and over 4 years of enterprise experience i
 
 I'm currently expanding my skill set through comprehensive online courses in AI and Machine Learning, driven by my passion for innovation and the transformative power of AI technologies. At the same time, I'm continuously improving my frontend development skills to stay at the forefront of web development.
 
-Additionally, I share my insights through blog posts on [Medium](https://medium.com/@wgevpein) and [Dev.to.](https://dev.to/gervaisamoah)
+Additionally, I share my insights through blog posts on [Dev.to.](https://dev.to/gervaisamoah)
 
 ## 🔧 Skills & Technologies:
 
